@@ -1,7 +1,7 @@
 # Library Management
 
 ![Python](https://img.shields.io/badge/python-3.x-blue)
-![Status](https://img.shields.io/badge/status-active-success)
+![Status](https://img.shields.io/badge/status-WIP-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A small **Library Management System** written in Python.
