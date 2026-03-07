@@ -9,6 +9,8 @@ This project was created as a simple way to experiment with managing book record
 
 The goal is to keep things lightweight and easy to understand while demonstrating how a basic library system could work.
 
+Disclaimer: This project is done with the help of [Coddy.tech](https://www.coddy.tech) . All the rights goes to them for helping me with the code
+
 ---
 
 ##  Features
